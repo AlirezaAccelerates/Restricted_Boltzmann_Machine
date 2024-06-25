@@ -17,3 +17,19 @@ This repository contains an implementation of a Restricted Boltzmann Machine (RB
 ## Installation
 
 To get started, clone this repository and install the required dependencies.
+
+## Reference
+
+Potential citation:
+
+```
+@article{sikora2023pharmacophenotype,
+  title={Pharmacophenotype identification of intensive care unit medications using unsupervised cluster analysis of the ICURx common data model},
+  author={Sikora, Andrea and Rafiei, Alireza and Rad, Milad Ghiasi and Keats, Kelli and Smith, Susan E and Devlin, John W and Murphy, David J and Murray, Brian and Kamaleswaran, Rishikesan and MRC-ICU Investigator Team},
+  journal={Critical Care},
+  volume={27},
+  number={1},
+  pages={167},
+  year={2023},
+  publisher={Springer}
+}
